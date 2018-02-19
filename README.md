@@ -1,3 +1,17 @@
+#Features Added
+Module based
+Authguards
+Environments setup
+Routing
+Scss
+Bootstrap
+Jquery
+
+
+State management
+Lazy Loading
+Services
+
 # SeedProjectScss
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
